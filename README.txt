@@ -1,1 +1,1 @@
-This repository contains code I wrote in my Third Year studying Computer Science & French at Trinity College Dublin.
+This repository contains code I wrote in my Third Year studying Computer Science & French at Université Grenoble Alpes, (Erasmus year away from Trinity College Dublin).
